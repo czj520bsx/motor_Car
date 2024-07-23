@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>d1.wav</file>
+        <file>back.jpeg</file>
+        <file>logo.png</file>
+        <file>down.jpeg</file>
+    </qresource>
+</RCC>
